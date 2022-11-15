@@ -9,7 +9,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Demo
 
-https://i.ibb.co/0Z1vY0z/Sin-t-tulo.png
+https://angular-ivy-vuebeo.stackblitz.io/
 
 ## Screenshots
 
